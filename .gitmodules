@@ -1,3 +1,3 @@
 [submodule "SharedLibrary"]
 	path = SharedLibrary
-	url = git@github.com:arajkovicpropylon/SharedLibrary.git
+	url = https://github.com/arajkovicpropylon/SharedLibrary
