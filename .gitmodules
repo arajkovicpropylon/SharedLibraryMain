@@ -2,3 +2,4 @@
 	path = SharedLibrary
 	url = https://github.com/arajkovicpropylon/SharedLibrary
 	branch = main
+	update = merge
